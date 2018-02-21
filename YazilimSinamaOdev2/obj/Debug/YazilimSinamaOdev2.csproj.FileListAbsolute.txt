@@ -1,0 +1,39 @@
+c:\users\x556\documents\visual studio 2015\Projects\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.exe.config
+c:\users\x556\documents\visual studio 2015\Projects\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.exe
+c:\users\x556\documents\visual studio 2015\Projects\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.pdb
+c:\users\x556\documents\visual studio 2015\Projects\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.csprojResolveAssemblyReference.cache
+c:\users\x556\documents\visual studio 2015\Projects\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.Form1.resources
+c:\users\x556\documents\visual studio 2015\Projects\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.Properties.Resources.resources
+c:\users\x556\documents\visual studio 2015\Projects\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.csproj.GenerateResource.Cache
+c:\users\x556\documents\visual studio 2015\Projects\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.exe
+c:\users\x556\documents\visual studio 2015\Projects\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.pdb
+C:\Users\X556\Desktop\Yazılım Sınama\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.exe.config
+C:\Users\X556\Desktop\Yazılım Sınama\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.exe
+C:\Users\X556\Desktop\Yazılım Sınama\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.pdb
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.exe.config
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.exe
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.pdb
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.exe
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.pdb
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.csprojResolveAssemblyReference.cache
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.Form1.resources
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.Properties.Resources.resources
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.csproj.GenerateResource.Cache
+C:\Users\X556\Desktop\github\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.exe.config
+C:\Users\X556\Desktop\github\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.exe
+C:\Users\X556\Desktop\github\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.pdb
+C:\Users\X556\Desktop\github\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.exe
+C:\Users\X556\Desktop\github\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.pdb
+C:\Users\X556\Desktop\github\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.csprojResolveAssemblyReference.cache
+C:\Users\X556\Desktop\github\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.Form1.resources
+C:\Users\X556\Desktop\github\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.Properties.Resources.resources
+C:\Users\X556\Desktop\github\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\github\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.exe.config
+C:\Users\ASUS\Desktop\github\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.exe
+C:\Users\ASUS\Desktop\github\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.pdb
+C:\Users\ASUS\Desktop\github\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.exe
+C:\Users\ASUS\Desktop\github\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.pdb
+C:\Users\ASUS\Desktop\github\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\github\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.Form1.resources
+C:\Users\ASUS\Desktop\github\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.Properties.Resources.resources
+C:\Users\ASUS\Desktop\github\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.csproj.GenerateResource.Cache
